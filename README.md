@@ -1,4 +1,5 @@
-# MakeoverMonday Week 18 2025 - ![Trump's Job Approval Rating(https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1) 
+# MakeoverMonday Week 18 2025 - ![Trump's Job Approval Rating](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1) 
+![**Travel Insights Dashboard**](https://raw.githubusercontent.com/SandipGit04/Travel-Insights-Dashboard/refs/heads/main/Dashboard%20Image/Whole%20Dashboard.png)
 ![**Dashboard**](https://github.com/SandipGit04/Makeover-Monday/blob/main/Week%2018/Trump's%20Job%20Approval.png)
 
 ---

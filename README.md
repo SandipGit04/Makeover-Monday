@@ -1,4 +1,4 @@
-# MakeoverMonday Week 18 2025 - [Trump's Job Approval Rating](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1)
+# MakeoverMonday Week 18 2025 - ![Trump's Job Approval Rating](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1)  
 ![Dashboard](https://github.com/SandipGit04/Makeover-Monday/blob/main/Week%2018/Trump's%20Job%20Approval.png)
 
 # MakeoverMonday Week 19 2025 - Asian Restaurants In US

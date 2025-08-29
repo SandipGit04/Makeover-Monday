@@ -10,3 +10,8 @@
 
 # MakeoverMonday Week 30 2025 - [London Underground Line Monthly Temperature](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LondonUndergroundLineTemperatureMakeoverMondayW302025/Dashboard2)
 ![**Week 30 2025 - London Underground Line Monthly Temperature**](https://raw.githubusercontent.com/SandipGit04/Makeover-Monday-Submissions/refs/heads/main/Week%2030%202025/Icons%20%26%20Images/Dashboard%20-%20London%20Underground%20Line%20Temperature.png)
+
+---
+
+# MakeoverMonday Week 31 2025 - [Low Wages Across Europe](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1#1)
+![**Week 31 2025 - Low Wages Across Europe**](https://raw.githubusercontent.com/SandipGit04/Makeover-Monday-Submissions/refs/heads/main/Week%2031%202025/Icons%20%26%20Images/Dashboard%20-%20Low%20Wages%20Across%20Europe.png)

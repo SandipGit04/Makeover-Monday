@@ -15,3 +15,8 @@
 
 # MakeoverMonday Week 31 2025 - [Low Wages Across Europe](https://public.tableau.com/app/profile/sandip.kundu5209/viz/LowWagesAcrossEuropeMakeoverMondayW312025/Dashboard1#1)
 ![**Week 31 2025 - Low Wages Across Europe**](https://raw.githubusercontent.com/SandipGit04/Makeover-Monday-Submissions/refs/heads/main/Week%2031%202025/Icons%20%26%20Images/Dashboard%20-%20Low%20Wages%20Across%20Europe.png)
+
+---
+
+# MakeoverMonday Week 32 2025 - [Corruption Perception Index](https://public.tableau.com/app/profile/sandip.kundu5209/viz/CorruptionPerceptionIndexMakeoverMondayWeek322025_17550106329320/Dashboard1)
+![**Week 32 2025 - Corruption Perception Index**](https://raw.githubusercontent.com/SandipGit04/Makeover-Monday-Submissions/refs/heads/main/Week%2032%202025/Icons%20%26%20Images/Dashboard%20-%20Corruption%20Perceptions%20Index.png)
